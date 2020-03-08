@@ -20,7 +20,7 @@ command line interface do the following.
     the >> is piping the output of the command into a file.
     you do this because the output is very long, and its difficult to
     just read in the command line, so we put it into a file called test.txt
-    so we can read it more efficiently and easily in vim.]
+    so we can read it more efficiently and easily in vim.
     
 6 - type 'vim test.txt' to view the results of the test. 
     Depending on which tests you used, the output will be different,
